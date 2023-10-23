@@ -1,0 +1,7 @@
+
+#DB config
+dbHost: localhost
+dbPort: 27017
+dbUsername: admin
+dbPassword: admin
+database: admin
